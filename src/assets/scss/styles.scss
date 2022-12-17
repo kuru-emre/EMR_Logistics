@@ -1,0 +1,34 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/utilities";
+
+$utilities: map-merge(
+  $utilities,
+  (
+    "width": map-merge(
+      map-get($utilities, "width"),
+      (
+        values: map-merge(
+          map-get(map-get($utilities, "width"), "values"),
+          (140: 140px),
+        ),
+      ),
+    ),
+
+    "height": map-merge(
+      map-get($utilities, "height"),
+      (
+        values: map-merge(
+          map-get(map-get($utilities, "height"), "values"),
+          (140: 140px),
+        ),
+      ),
+    ),
+  )
+);
+
+@import "bootstrap/scss/utilities/api";
+@import "~bootstrap/scss/bootstrap";
+
