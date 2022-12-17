@@ -1,0 +1,17 @@
+{
+    "name": "ekuru/project1",
+    "autoload": {
+        "psr-4": {
+            "Ekuru\\Project1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emre Kuru",
+            "email": "emrekuru2@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^5.2"
+    }
+}
