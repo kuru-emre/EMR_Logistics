@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="20.16 115.87 334.62 138.75">
+<g enable-background="new">
+
+<clipPath id="cp3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z " fill-rule="evenodd"></path>
+</clipPath>
+<g clip-path="url(#cp3)">
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#ab9868" xml:space="preserve" transform="matrix(.75 0 0 .75 33.407403 121.871479)" font-size="168.27" font-family="Hatton" font-weight="bold"><tspan y="142" x="0 103.65128 268.2147">EMR</tspan></text>
+</g>
+<clipPath id="cp4">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 83.99549 692.95669 L 1478.5044 692.95669 L 1478.5044 860.5068 L 83.99549 860.5068 Z " fill-rule="evenodd"></path>
+</clipPath>
+<g clip-path="url(#cp4)">
+<path transform="matrix(2.5939527,0,0,2.5939527,20.158917,166.3096)" d="M 0 0 L 129 0 L 129 16 L 0 16 Z " fill="#212529"></path>
+</g>
+<clipPath id="cp5">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z " fill-rule="evenodd"></path>
+</clipPath>
+<g clip-path="url(#cp5)">
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#a8acaf" xml:space="preserve" transform="matrix(.75 0 0 .75 25.120408 169.16562)" font-size="16.53" font-family="Montserrat"><tspan y="17" x="84.140628 106.93387 130.99883 156.08777 182.39887 206.46382 223.95552 248.58202 272.64698 290.13868 313.88984 339.30909">TEKNE VE YAT</tspan></text>
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#a8acaf" xml:space="preserve" transform="matrix(.75 0 0 .75 25.120408 169.16562)" font-size="16.53" font-family="Montserrat"><tspan y="40" x="78.921878 101.71512 127.13437 150.63779 168.85617 197.36386 222.78311 247.5252 265.7436 287.79365 306.01203 331.61296">TAŞIMACILIĞI</tspan></text>
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#a8acaf" xml:space="preserve" transform="matrix(.75 0 0 .75 25.120408 169.16562)" font-size="16.53" font-family="Montserrat"><tspan y="40" x="349.82814"> </tspan></text>
+</g>
+</g>
+</svg>
